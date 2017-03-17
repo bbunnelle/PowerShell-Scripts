@@ -1,4 +1,4 @@
-#Repair Cylance UI Help
+# Repair Cylance UI Help
 
 If you have deployed Cylance Anti-Virus in your environment with the parameter LAUNCHAPP=0 (No UI), this "Function" will help give you the UI back.
 
@@ -6,5 +6,5 @@ This script has to be ran with "NT AUTHORITY\SYSTEM" permissions or it will not 
 
 Due to the scope of this "Function" and the requirement to run as "NT AUTHORITY\SYSTEM", you will need to Dot-Source this script.
 
-##Example:
-######. '.\RepairCylanceUI.ps1' Repair-CylanceUI -UIMode Full
+## Example:
+###### . '.\RepairCylanceUI.ps1' Repair-CylanceUI -UIMode Full
