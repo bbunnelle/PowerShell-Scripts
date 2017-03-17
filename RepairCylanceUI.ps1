@@ -44,5 +44,3 @@ Function Repair-CylanceUI{
     $Shortcut.Save()
 
 }
-
-Repair-CylanceUI -UIMode $UIMode
